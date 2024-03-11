@@ -11,12 +11,12 @@ const sr = ScrollReveal({
     reset:true
 });
 sr.reveal('.logo',{delay:200,orgin:'left'});
-sr.reveal('.navbar',{delay:400,orgin:'top'});
-sr.reveal('.menu-btn',{delay:520,orgin:'right'});
-sr.reveal('.home-text span',{delay:600,orgin:'top'});
-sr.reveal('.home-text h1',{delay:680,orgin:'left'});
-sr.reveal('.home-text p',{delay:750,orgin:'right'});
-sr.reveal('.main-btn',{delay:860,orgin:'left'});
+sr.reveal('.navbar',{delay:250,orgin:'top'});
+sr.reveal('.menu-btn',{delay:300,orgin:'right'});
+sr.reveal('.home-text span',{delay:350,orgin:'top'});
+sr.reveal('.home-text h1',{delay:400,orgin:'left'});
+sr.reveal('.home-text p',{delay:450,orgin:'right'});
+sr.reveal('.main-btn',{delay:500,orgin:'left'});
 
-sr.reveal('.share',{delay:950,orgin:'bottom'});
-sr.reveal('.home-img',{delay:1000,orgin:'right'});
+sr.reveal('.share',{delay:550,orgin:'bottom'});
+sr.reveal('.home-img',{delay:600,orgin:'right'});
